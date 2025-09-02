@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.log
+*.sqlite3
+.pytest_cache/
+.env
+.DS_Store
+.vscode/                 # (선택) 개인 편집기 설정은 보통 커밋 제외
